@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull
+# Repositorio para practicar git pull (Oxmiguel97)
 repositorio para practicar el comando git pull.
